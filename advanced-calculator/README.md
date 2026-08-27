@@ -118,4 +118,4 @@ The repository also contains a lightweight calculator implemented using HTML, CS
 
 This project is part of the **Calculator Suite** repository.
 
-[Back to Calculator Suite](../)
+[Back to Calculator Suite](../README.md)

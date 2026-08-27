@@ -49,4 +49,4 @@ A more advanced implementation using React, Next.js, and TypeScript is also avai
 
 This project is part of the **Calculator Suite** repository.
 
-[Back to Calculator Suite](../)
+[Back to Calculator Suite](../README.md)
