@@ -1,5 +1,3 @@
-# calculator-suite
-A collection of calculator applications built with different web technologies.
 # Calculator Suite
 
 A collection of calculator applications built using different web technologies.
