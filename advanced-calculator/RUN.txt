@@ -1,0 +1,10 @@
+HOW TO RUN ON WINDOWS
+
+1. Install Node.js from https://nodejs.org/
+2. Open this folder in VS Code.
+3. Select Terminal > New Terminal.
+4. Run: npm install
+5. Run: npm run dev
+6. Hold Ctrl and click the URL shown in the terminal.
+
+To stop the development server, press Ctrl + C in the terminal.
